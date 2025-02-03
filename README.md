@@ -100,12 +100,3 @@
 #### [+] Best DDoS Tool in the market !
 #### [+] Based On Proxies !
 #### [+] Easy for Beginners !
- 
-<p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/the-deepnet"><img title="Followers" src="https://img.shields.io/github/followers/the-deepnet?color=blue&style=flat-square"></a>
-<a href="https://twitter.com/the_deepnet"><img title="Contributer" src="https://img.shields.io/twitter/follow/the_deepnet?label=%40the_deepnet&style=social"></a>
-<a href="https://instagram.com/the_deepnet"><img title="Instagram" src="https://img.shields.io/badge/IG-%40DeepNet-red?style=for-the-badge&logo=instagram"></a>
-<a href="https://m.me/tdeepnet"><img title="Facebook" src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
-<a href="https://github.com/the-deepnet"><img title="GitHub" src="https://img.shields.io/badge/Github-DeepNet-green?style=for-the-badge&logo=github"></a>
-</p>
