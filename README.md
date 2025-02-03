@@ -1,12 +1,12 @@
 <h1 align="center">ddos - DDoS Attack Script With 36 Plus Methods</h1>
 
 <p align="center">
-<a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23f5690c&colorB=%23035c00&style=for-the-badge"></a>
+<a href="#"><img title="Made in Indonesia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-green?colorA=%23f5690c&colorB=%23035c00&style=for-the-badge"></a>
 </p
 
 <em><h5 align="center">(Code Language - Python 3)</h5></em>
 <p align="center">
-<a href="https://github.com/the-deepnet"><img title="Author" src="https://img.shields.io/badge/Author-DeepNet-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VinNotSepuh999"><img title="Author" src="https://img.shields.io/badge/Author-DeepNet-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 
@@ -80,7 +80,7 @@
 
 ## Installation :
 
-`git clone https://github.com/the-deepnet/ddos.git`
+`git clone https://github.com/VinNotSepuh999/ddos.git`
 
 `cd ddos`
 
